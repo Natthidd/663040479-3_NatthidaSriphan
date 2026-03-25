@@ -1,6 +1,0 @@
-— Patty Nat —
-Orc • Ranger
-STR: 12
-DEX: 2
-INT: 14
-VIT: 5
